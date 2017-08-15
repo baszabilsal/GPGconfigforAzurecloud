@@ -1,0 +1,1 @@
+echo test > d:\home\data\testbatch\test.txt
